@@ -1,0 +1,21 @@
+{
+    "name": "motorbit_buzzer",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "motorbit": "github:emakefun/pxt-motorbit#a51f2ca3baf415beaf06ba942af7ff42eb6e400a"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
